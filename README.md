@@ -9,7 +9,7 @@ learning it.
 
 To use you will need to clone this repo. 
 - Clone the repo with `git clone https://github.com/arthurfary/rust-web-server`.
-- Build it for you system using [Cargo]{https://doc.rust-lang.org/cargo/getting-started/installation.html} 
+- Build it for you system using [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 by running `cargo build -r`
 - Your executable will be on the `target/release/` folder, named `rust-web-server`
 
